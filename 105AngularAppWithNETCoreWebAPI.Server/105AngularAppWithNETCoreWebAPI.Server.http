@@ -1,0 +1,6 @@
+@_105AngularAppWithNETCoreWebAPI.Server_HostAddress = http://localhost:5171
+
+GET {{_105AngularAppWithNETCoreWebAPI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
